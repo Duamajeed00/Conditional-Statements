@@ -1,0 +1,12 @@
+{
+  "name": "conditional_statements",
+  "version": "1.0.0",
+  "description": "In this I'm going to show how unary operators work and also about conditional statements that how we can use these statements in our coding.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dua Majeed",
+  "license": "ISC"
+}
